@@ -27,3 +27,17 @@ First-order Station (left) Second-order Station (right), (Images courtesy of SWE
 |------------|----------|---------------------|-----------------------|
 | ALB0       | 5.829    | ECMWF Model: 0.0041 | ECMWF Model: 0.0062   |
 |            |          | RCA Model: 0.0046  | RCA Model: 0.0071     |
+| GYRO       | 5.428    | ECMWF Model: 0.0016 | ECMWF Model: 0.0066   |
+|            |          | RCA Model: 0.0016  | RCA Model: 0.0067     |
+| HISO       | 5.676    | ECMWF Model: 0.0031 | ECMWF Model: 0.0062   |
+|            |          | RCA Model: 0.0030  | RCA Model: 0.0063     |
+| NYBO       | 5.673    | ECMWF Model: 0.0042 | ECMWF Model: 0.0068   |
+|            |          | RCA Model: 0.0042  | RCA Model: 0.0068     |
+| OVTO       | 5.275    | ECMWF Model: 0.0032 | ECMWF Model: 0.0071   |
+|            |          | RCA Model: 0.0032  | RCA Model: 0.0070     |
+| OXEO       | 6.938    | ECMWF Model: 0.0013 | ECMWF Model: 0.0074   |
+|            |          | RCA Model: 0.0012  | RCA Model: 0.0075     |
+| STAO       | 7.095    | ECMWF Model: 0.0013 | ECMWF Model: 0.0067   |
+|            |          | RCA Model: 0.0012  | RCA Model: 0.0069     |
+| VASO       | 7.095    | ECMWF Model: 0.0018 | ECMWF Model: 0.0080   |
+|            |          | RCA Model: 0.0018  | RCA Model: 0.0080     |
