@@ -1,6 +1,5 @@
 # statistical_modeling_matlab
-Highlights of my research work in MATLAB, statistical modeling of the unstructured raw data from GPS satellites for several years. Data modeling and processing, followed by different residual plots including trends and root mean square. Ultimately, the result was compared with independent data set models for validation.
-The results were also presented at a European conference.
+Highlights of my research work include MATLAB-based statistical modeling of unstructured raw data from GPS satellites over several years. The research involved data modeling and processing, followed by generating various residual plots, including trends and root mean square analysis. Finally, the obtained results were compared with independent data set models to validate the findings. The research outcomes were also presented at a European conference.
 ## Map of Geodetic Stations in Sweden
 ![img](https://github.com/ttariqaziz/statistical_modeling_matlab/blob/main/Plots/Map%20of%20stations.png)
 ## Station Types 
