@@ -17,12 +17,6 @@ First-order Station (left) Second-order Station (right), (Images courtesy of SWE
 ## Zenith Hydrostatic and Wet Delay Plots
 ![img](https://github.com/ttariqaziz/statistical_modeling_matlab/blob/main/Plots/Plot2.png)
 ## Metrics
-| Station ID  | Root Mean Square (mm) | Mean Difference (m) | Standard Deviation (m) |
-| ------------- | ------------- | ------------- | ------------- |
-| | | ECMWF Model | RCA Model| |
-| ALBO | 5.829 | 0.0041 | 0.0046 | 0.0062 | 0.0071 |
-
-## testing
 | Station ID | RMS (mm) | Mean Difference (m) | Standard Deviation (m) |
 |------------|----------|---------------------|-----------------------|
 | ALB0       | 5.829    | ECMWF Model: 0.0041 | ECMWF Model: 0.0062   |
