@@ -35,3 +35,9 @@ First-order Station (left) Second-order Station (right), (Images courtesy of SWE
 |            |          | RCA Model: 0.0012  | RCA Model: 0.0069     |
 | VASO       | 7.095    | ECMWF Model: 0.0018 | ECMWF Model: 0.0080   |
 |            |          | RCA Model: 0.0018  | RCA Model: 0.0080     |
+## Conclusion
+- Until the year 2010, only 25 first stations were used for measuring Tropospheric delay measurement. However, after these results and validation, we can conclude that these nine second-order stations could also be usable for measuring Tropospheric delay estimation.
+- One of the biggest advantages of using this technique is its cost-effectiveness compared to the much more expensive balloon and airborne techniques, as it relies on the existing infrastructure.
+- Secondly, GNSS measurements can be obtained at any time and in any weather condition, making it highly accessible.
+- For more sophisticated measurements, we can use balloons and airborne systems, but launching those systems requires proper planning and is limited to a few times per year, whereas GNSS systems work 24/7 and function in all weather conditions.
+- From all the results shown in this thesis, we can confidently state that these second-order stations are usable for monitoring Tropospheric water vapor activity and delay estimation.
